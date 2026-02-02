@@ -1,7 +1,6 @@
 # streamlit run trust_streamlit.py
 
 import streamlit as st
-import os
 import pandas as pd
 import plotly.graph_objects as go
 import polars as pl
